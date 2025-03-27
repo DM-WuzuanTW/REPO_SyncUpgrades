@@ -1,0 +1,9 @@
+{
+    "name": "REPO_SyncUpgrades",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/DM-WuzuanTW/REPO_SyncUpgrades",
+    "description": "同步所有玩家的升級狀態，當任何玩家升級時，所有玩家都會同步升級，新加入的玩家會自動獲得房主的升級狀態。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.21"
+    ]
+} 
